@@ -1,14 +1,14 @@
  
 ![I am Sadnan Hossain](https://github.com/Sadnan-2019/Sadnan-2019/blob/main/searaa.PNG)
 <h1 align="center">Hi 👋, I am Md Sadnan Hossain</h1>
-<h3 align="center">I am A professional web & graphics designer and a web developer..</h3>
+<h3 align="center">I am A professional web developer &  web designer..</h3>
 ![Profile views](https://gpvc.arturio.dev/sadnanhossain) 
-Welcome to my GitHub profile. I am A professional web & graphics designer and a web developer. 
+Welcome to my GitHub profile. I am A professional web design & a web developer. 
 Knock me: https://www.facebook.com/mdsadnanhossain.mdsadnanhossain/
 Skills: BOOTSTRAP/ NODE.JS / JS / HTML / CSS
  
 - 🔭 I’m currently working on [Sadnan Hossain](https://github.com/Sadnan-2019)
-- 🌱 I’m currently learning **JS, HTML, CSS**
+- 🌱 I’m currently learning **JS, HTML,PHP CSS**
 - 👨‍💻 All of my projects are available at [https://github.com/Sadnan-2019](https://github.com/Sadnan-2019)
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 - 📫 How to reach me **sadnan.wow@gmail.com**
